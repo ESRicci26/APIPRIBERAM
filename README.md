@@ -1,6 +1,6 @@
 DICIONÁRIO PRIBERAM
 -------------------
-O dicionário priberam não tem uma API para ser consumida, então criei uma consulta do signifado de qualquer palavra da língua portuguesa e extrai o resultado
+O dicionário priberam não tem uma API para ser consumida, então criei uma consulta do significado de qualquer palavra da língua portuguesa e extrai o resultado
 fazendo uma varredura na TAG da página para enviar para minha página HTML.
 
 Código HTML, CSS e JavaScript que cria uma aplicação simples para consultar o significado de uma palavra no dicionário Priberam e exibir o resultado em 
